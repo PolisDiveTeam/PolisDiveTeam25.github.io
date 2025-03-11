@@ -1,0 +1,119 @@
+h1{
+	color:steelblue;
+	font-family: "Times New Roman", Times, serif;
+}
+.Logo{
+	width:30%;
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+	font-size:25px;
+	font-family: "Georgia", Times, serif;
+}
+.turtles1{
+	width:90%;
+	clip-path: circle(50%);
+}
+.BLUELAGGON{
+	width:100%;
+	clip-path: circle(41%);
+}
+.quiz{
+	padding-top: 50px;
+	text-align: center;
+	font-size:40px;
+}
+.reason13{
+	text-align: center;
+}
+.why{
+	padding-top: 150px;
+	text-align: center;
+}
+.whyy{
+	text-align: center;
+}
+.xarakti
+	{padding-top: 70px;
+	text-align: center;
+}
+.diameter{
+	width:90%;
+}
+.diameter2{
+	width:70%;
+}
+.diameter3{
+	text-align: left;
+	width:100%;
+}
+.diameter4{
+	width:70%;
+}
+.food{ 
+	font-size:25px;
+	font-family: "Georgia", Times, serif;
+}
+.diatro{
+	padding-top: 100px;
+}
+.anap{
+	padding-top: 60px;
+}
+.anap1{
+	padding-top: 80px;
+}
+.FULO{
+	padding-top: 60px;
+}
+.seawall{
+	padding-top: 6px;
+	width:120%;
+ 	clip-path: circle(39%);
+}
+.TURTLE2{
+	padding-top: 6px;
+	width:120%;
+ 	clip-path: circle(35%);
+}
+.beach{
+	padding-top: 50px;
+	width:100%;
+ 	clip-path: circle(33%);
+}
+.beach2{
+	padding-top: 50px;
+	width:100%;
+ 	clip-path: circle(33%);
+ 	aligh: left;
+}
+.logoi{
+	padding-top: 60px;
+	text-align: center;
+	font-size:40px;
+}
+.reason{
+	text-align: center;
+}
+.pictures{
+	width:50%;
+	padding-top: 30px;
+}
+.pictures2{
+	width:50%;
+	padding-top: 30px;
+}
+.pictures3{
+	width:50%;
+	padding-top: 30px;
+}
+.pictures4{
+	width:80%;
+	padding-top: 30px;
+}
+.FULO1{
+	padding-top: 80px;
+}
+
